@@ -1,0 +1,17 @@
+.section-menu
+{
+    background-color: red;
+}
+
+.section-menu .navbar-top
+{
+    background-color: lightblue;
+}
+ 
+
+.section-menu .navabr-expand.lg .navbar-nav .nac-link
+{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
